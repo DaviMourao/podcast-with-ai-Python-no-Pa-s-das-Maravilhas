@@ -6,7 +6,7 @@ Primeiro episódio do Podcast "Python no País das Maravilhas" -Avante ao Fantá
 
 <p align="center">
 <img 
-    src="./assets/cover_podcast_spotify.png"
+    src="Python no País das Maravilhas podcast cover art, inspired by Alice in Wonderland, no text (1).png"
     width="400"
 />
 </p>
