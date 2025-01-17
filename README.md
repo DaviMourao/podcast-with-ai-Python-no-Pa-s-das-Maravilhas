@@ -57,7 +57,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=100 
-      src="podcast-with-ai-Python-no-Pa-s-das-Maravilhas/images/IMG-20241106-WA0026.jpg"
+      src="podcast-with-ai-Python-no-Pa-s-das-Maravilhas/IMG-20241106-WA0026.jpg"
     />
     <p>&nbsp&nbsp&nbspThaisa Guio<br>
     &nbsp&nbsp&nbsp
