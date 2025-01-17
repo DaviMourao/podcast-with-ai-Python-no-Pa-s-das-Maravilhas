@@ -13,8 +13,7 @@ Primeiro episódio do Podcast "Python no País das Maravilhas" -Avante ao Fantá
 
 <p align="center">
 
-🎙️ Ouça o Podcast:  [Clique Aqui](podcast-with-ai-Python-no-Pa-s-das-Maravilhas/images
-/IMG-20241106-WA0026.jpg)
+🎙️ Ouça o Podcast:  [Clique Aqui](https://github.com/DaviMourao/podcast-with-ai-Python-no-Pa-s-dasMaravilhas/blob/main/Podcast%20_Python%20no%20Pa%C3%ADs%20das%20Maravilhas_%20Avante%20ao%20Fant%C3%A1stico_O%20Universo%20Oculto%20do%20Python.mp4)
      
 
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
@@ -63,7 +62,7 @@ o formato deve ser:
 
 ## 🚀 Resultados
 
-🎙️ Ouça o Podcast: [Clique Aqui]("podcast-with-ai-Python-no-Pa-s-das-Maravilhas/Podcast _Python no País das Maravilhas_ Avante ao Fantástico_O Universo Oculto do Python.mp4") 
+🎙️ Ouça o Podcast: [Clique Aqui](https://github.com/DaviMourao/podcast-with-ai-Python-no-Pa-s-das-Maravilhas/blob/main/Podcast%20_Python%20no%20Pa%C3%ADs%20das%20Maravilhas_%20Avante%20ao%20Fant%C3%A1stico_O%20Universo%20Oculto%20do%20Python.mp4)
 
 ## 👨‍💻 Autoria
 
