@@ -76,17 +76,17 @@ o formato deve ser:
     <p>&nbsp&nbsp&nbspThaisa Guio<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/thaisaguio">
+        href="https://github.com/DaviMourao">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.linkedin.com/thaisa-guio/">
+        href="https://www.linkedin.com/in/davi~mour%C3%A3o/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/thaisaguio">
+        href="https://www.instagram.com/davi.f.mourao/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -96,4 +96,4 @@ o formato deve ser:
 
 ---
 
-⌨️ com 💜 por [Thaisa Guio](https://github.com/thaisaguio)
+⌨️ por [Davi Mourão](https://github.com/DaviMourao)
