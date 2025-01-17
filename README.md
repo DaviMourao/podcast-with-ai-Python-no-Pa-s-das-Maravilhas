@@ -43,12 +43,29 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 | Criar Título do Podcast: ChatGPT | atue como especialista em Engenharia de Prompt, e escreva como montar um prompt forte para criar um podcast. Como tarefa extra espero que liste sugestões de nomes criativos para o podcast, o título deverá ser enxuto e impactante e o contexto do podcast é: "PYTHON, TODO POTENCIAL AO PROGRAMAR EM PYTHON E MISTÉRIOS E CURIOSIDADES DA LINGUAGEM DE PROGRAMAÇÃO"<br> <br> {REGRAS} <br> <br> > Apresente 10 variações com referências a obras conhecidas incluindo A arte da guerra . <br>|
 |Criar subtítulo impactante | O título escolhido foi: ""Python no País das Maravilhas" (referência a Alice no País das Maravilhas)", crie 10 subtítulos focado em curiosidades de python e seu potencial|
 | Criar Imagem de Capa do Podcast: Copilot | Gere uma imagem para um podcast sobre Python, o título é: "Python no País das Maravilhas" gere variações dessa imagem, focado tambem na referência em "Alice no País das Maravilhas. {REGRAS} Não pode conter letras|
-| Criar Roteiro do Podcast: ChatGPT | Você é um roteirista de podcast. Vamos criar um podcast de tecnologia, focado em "Machine Learning", cujo título é "O novo Monolito - Uma Odisseia pela IA" e subtítulo é "Explorando o universo do Machine Learning sem mistérios", com público alvo de iniciantes em "Machine Learning" ou que estejam em transição de carreira para ela. O episódio do dia possui o tema: "Desmistificando termos de Machine Learning". Nesse episódio alguns termos usados no mundo do Machine Learning serão desmistificados e explicados de forma simples. Podem ser usadas analogias com o mundo do filme "2001: Uma Odisseia no Espaço".  O formato do roteiro deve ser: [INTRODUCAO] [TERMOS 1] [TERMOS 2] [TERMO 3] [TERMO 4] [FINALIZACAO]  {REGRAS} - O podcast será apresentado pela apresentadora de nome: Thaisa. Ela é analista e cientista de dados, com background acadêmico na área de Física, e experiência no mundo do Python e do Machine Learning. - No bloco [INTRODUCAO] substitua por uma saudação cool da apresentadora, introduza o título e subtítulo do podcast, fale do que o podcast quer tratar de maneira geral, e introduza o tema do episódio do dia. - Adote o estilo do podcast "Hipsters.Tech" da plataforma "Alura". - Os [TERMOS 1] a serem desmistificados são: "parâmetros" e "hiperparâmetros". - Os [TERMOS 2] a serem desmistificados são: "overfitting ou sobreajuste" e "underfitting ou subajuste". - O [TERMO 3] a ser desmistificado é: "backpropagation ou retropropagação". - O [TERMO 4] a ser desmistificado é: "dilema viés-variância". - Use termos claros e simples, porém precisos. {REGRAS NEGATIVAS} - Não ultrapasse 5 minutos de duração.|
+| Criar Roteiro do Podcast: ChatGPT | você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Python cujo nome é: Podcast "Python no País das Maravilhas" -Avante ao Fantástico: O Universo Oculto do Python e tem foco em curiosidades sobre a linguagem e todo seu potencial.
+o formato deve ser:
+[INTRODUÇÃO]
+[POTECIAL]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+ -bloco [INTRODUÇÃO] substitua por uma introdução dos vídeos do canal de youtube 'ei nerd', como se fossem escritos pelo apresentador Peter Jordan
+ -no bloco [POTENCIAL] substitua por uma lista de coisas impressionantes que dá para alcançar usando a linguagem python
+ -no bloco [CURIOSIDADE 1] substitua por uma curiosidade da linguagem python
+ -no bloco [CURIOSIDADE 2] substitua por uma outra curiosidade da linguagem python
+ -no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Davi e esse foi o CodeQuest dessa semana
+ -use termos de fácil explicação
+ o podcast vai ser apresentado somente por uma pessoa chamada Davi
+-o podcast deve ser curto
+{REGRAS NEGATIVAS}
+ -Evite muitos termos técnicos
+ -não ultrapasse 5 minutos de duração|
 
 - OBSERVAÇÕES:
 
-Durante a criação do podcast, notei as seguintes limitações da ferramenta ElevenLabs para o roteiro utilizado:
-Precisei ajustar "IA" para "iá" manualmente. Do contrário, a IA generativa lia como "ía". Tentei também separar "IA" para "I A", mas aí ela lia "i e a".
 
 ## 🚀 Resultados
 
