@@ -13,7 +13,8 @@ Primeiro episódio do Podcast "Python no País das Maravilhas" -Avante ao Fantá
 
 <p align="center">
 
-🎙️ Ouça o Podcast:  [Clique Aqui](https://github.com/thaisaguio/podcast_o_novo_monolito_uma_odisseia_pela_ia/blob/main/output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4)
+🎙️ Ouça o Podcast:  [Clique Aqui](podcast-with-ai-Python-no-Pa-s-das-Maravilhas/images
+/IMG-20241106-WA0026.jpg)
      
 
  > ℹ️ **NOTA**: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
@@ -62,7 +63,7 @@ o formato deve ser:
 
 ## 🚀 Resultados
 
-🎙️ Ouça o Podcast: [Clique Aqui](output/podcast_o_novo_monolito_uma_odisseia_pela_ia.mp4) 
+🎙️ Ouça o Podcast: [Clique Aqui]("podcast-with-ai-Python-no-Pa-s-das-Maravilhas/Podcast _Python no País das Maravilhas_ Avante ao Fantástico_O Universo Oculto do Python.mp4") 
 
 ## 👨‍💻 Autoria
 
@@ -71,7 +72,7 @@ o formato deve ser:
       align=left 
       margin=10 
       width=100 
-      src="/images/thaisa-guio.png"
+      src="podcast-with-ai-Python-no-Pa-s-das-Maravilhas/images/IMG-20241106-WA0026.jpg"
     />
     <p>&nbsp&nbsp&nbspThaisa Guio<br>
     &nbsp&nbsp&nbsp
