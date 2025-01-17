@@ -45,12 +45,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 | Criar Imagem de Capa do Podcast: Copilot | Gere uma imagem para um podcast sobre Python, o título é: "Python no País das Maravilhas" gere variações dessa imagem, focado tambem na referência em "Alice no País das Maravilhas. {REGRAS} Não pode conter letras|
 | Criar Roteiro do Podcast: ChatGPT | você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Python cujo nome é: Podcast "Python no País das Maravilhas" -Avante ao Fantástico: O Universo Oculto do Python e tem foco em curiosidades sobre a linguagem e todo seu potencial.
 o formato deve ser:
-[INTRODUÇÃO]
-[POTECIAL]
-[CURIOSIDADE 1]
-[CURIOSIDADE 2]
-[FINALIZAÇÃO]
-
+[INTRODUÇÃO][POTECIAL][CURIOSIDADE 1][CURIOSIDADE 2][FINALIZAÇÃO]
 {REGRAS}
  -bloco [INTRODUÇÃO] substitua por uma introdução dos vídeos do canal de youtube 'ei nerd', como se fossem escritos pelo apresentador Peter Jordan
  -no bloco [POTENCIAL] substitua por uma lista de coisas impressionantes que dá para alcançar usando a linguagem python
@@ -63,8 +58,6 @@ o formato deve ser:
 {REGRAS NEGATIVAS}
  -Evite muitos termos técnicos
  -não ultrapasse 5 minutos de duração|
-
-- OBSERVAÇÕES:
 
 
 ## 🚀 Resultados
